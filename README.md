@@ -1,4 +1,28 @@
-# create-svelte
+# Project Vivy Front-end
+Just another app for me 🤭
+
+Learn sveltekit + typescripts when building this project is kinda challenging
+
+I also use TailwindCSS + [SvelteMaterialUI](https://sveltematerialui.com/) and I don't know why it works LoL
+
+Current UI progress :
+- [x] Basic Landing Page
+- [ ] Login form
+- [ ] Dashboard
+- [ ] Queue
+- [ ] FAQ & How To (if I make this for public)
+
+## Basic Landing Page
+
+### Desktop
+![Basic Landing Page](https://raw.githubusercontent.com/wahyusa/vivy/main/docs/vivy-desktop.png)
+
+### Mobile
+![Basic Landing Page](https://raw.githubusercontent.com/wahyusa/vivy/main/docs/vivy-mobile.png)
+
+-------------------------------------
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
